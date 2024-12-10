@@ -34,12 +34,3 @@ A simple Windows Forms Application built using **C#** and **.NET Framework** tha
 git clone https://github.com/Jays0718/SQLiteCRUDApp.git
 cd SQLiteCRUDApp
 
-
-
-🖼️ UI Overview
-DataGridView: Displays user data.
-TextBoxes: Input fields for ID, Name, and Age.
-Buttons:
-➕ Add: Add a new user record.
-✏️ Update: Update an existing user record.
-❌ Delete: Remove a use
