@@ -31,5 +31,5 @@ A simple Windows Forms Application built using **C#** and **.NET Framework** tha
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/SQLiteCRUDApp.git
+git clone https://github.com/Jays0718/SQLiteCRUDApp.git
 cd SQLiteCRUDApp
